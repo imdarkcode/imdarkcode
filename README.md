@@ -17,5 +17,4 @@
 ### Contato ☎️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sudano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.sudano11@gmail.com)
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/darksudano?up_rollout=true)
 [![Website](https://img.shields.io/website?label=websitedarkcode.free.nf&style=for-the-badge&url=http://websitedarkcode.free.nf/)](http://websitedarkcode.free.nf/)
