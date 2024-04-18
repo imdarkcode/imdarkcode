@@ -1,10 +1,12 @@
-# Seja bem-vindo ao meu perfil 👋🏻
+# Seja bem-vindo ao meu perfil 
+
 <br>
 
 ![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDark2168&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDark2168&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Habilidades 🖥️
+### Habilidades <img src="https://github.com/CodeDark2168/CodeDark2168/assets/116005183/4dbe52a9-33ea-4e7d-84d0-d034dd267d08" width="30px">
+
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
