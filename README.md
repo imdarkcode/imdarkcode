@@ -16,12 +16,6 @@
 </div>
 <br>
 
-### Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sudano/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.sudano11@gmail.com)
-[![Website](https://img.shields.io/website?label=websitedarkcode.free.nf&style=for-the-badge&url=http://websitedarkcode.free.nf/)](http://websitedarkcode.free.nf/)
-
 ### Principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDark2168&repo=Faculdade&theme=dark)](https://github.com/CodeDark2168/Faculdade)
