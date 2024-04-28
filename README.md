@@ -1,23 +1,22 @@
-# Seja bem-vindo ao meu perfil 👋🏻
-
+<h1 align="center"> Seja Bem-vindo ao meu perfil! </h1>
+<img src="banner.png">
 <br>
 
-![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDark2168&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDark2168&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Habilidades
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=CodeDark2168&show_icons=true&theme=dark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDark2168&layout=compact&theme=dark">
 </div>
+
 <br>
 
-### Principais Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDark2168&repo=Faculdade&theme=dark)](https://github.com/CodeDark2168/Faculdade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDark2168&repo=Python&theme=dark)](https://github.com/CodeDark2168/Python)
+<div align="center">
+  <img width="50px"alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img width="50px" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img width="50px"alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="50px"alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img width="50px"alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="50px"alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img width="50px" alt="git"/ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img width="50px"alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
+</div>
 
