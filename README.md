@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=CodeDark2168&show_icons=true&theme=dark">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDark2168&layout=compact&theme=dark">
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=CodeDark2168&show_icons=true&theme=dark">
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDark2168&layout=compact&theme=dark">
 </div>
 
 <br>
