@@ -1,5 +1,5 @@
 <h1 align="center"> Seja Bem-vindo ao meu perfil! </h1>
-<img src="banner.png">
+<img src="banner_github.png">
 <br>
 
 <div align="center">
