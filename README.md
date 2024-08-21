@@ -1,11 +1,20 @@
-<h1 align="center"> Seja Bem-vindo ao meu perfil! </h1>
-<img src="banner_github.png">
-<br>
+<div align="center">
+  <img src="banner_2.jpg">
+</div>
+<hr>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/otavio-sudano/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
+
+<h1 align="center" width="70px"> Um pouco sobre mim </h1>
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=imdarkcode&show_icons=true&theme=dark">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdarkcode&layout=compact&theme=dark">
 </div>
+
+
 
 <br>
 
