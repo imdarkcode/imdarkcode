@@ -29,7 +29,7 @@
 
 <br>
 
-<p align="center"> Atualmente curso Análise e Desenvolvimento de Sistema na faculdade na Fatec de Taquaritinga, curso de front-end online da Origamid, também estudo Python através de um curso da Udemy.</p>
+<p align="center"> Atualmente curso Análise e Desenvolvimento de Sistema na faculdade na Fatec de Taquaritinga, estudo front-end online no curso da Origamid, também estudo Python através de um curso da Udemy. </p>
 
 <br>
 <br>
