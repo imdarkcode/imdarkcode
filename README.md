@@ -40,8 +40,8 @@
 <br>
 
 <div align="center">
-  <img width="530" src="https://github-readme-stats.vercel.app/api?username=imdarkcode&theme=transparent&bg_color=111111&border_color=white&show_icons=true&icon_color=D84040&title_color=FFF&text_color=FFF">
-  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imdarkcode&layout=compact&bg_color=111111&border_color=FFF&title_color=FFF&text_color=FFF">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=imdarkcode&theme=transparent&bg_color=111111&border_color=white&show_icons=true&icon_color=D84040&title_color=FFF&text_color=FFF">
+  <img width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imdarkcode&layout=compact&bg_color=111111&border_color=FFF&title_color=FFF&text_color=FFF">
 </div>
 
 
