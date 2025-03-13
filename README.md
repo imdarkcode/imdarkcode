@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_2.jpg" width="100%">
+  <img src="banner.jpg" width="100%">
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="banner_3.jpg" width="600">
+  <img src="about-me.jpg" width="600">
 </div>
 
 <br>
