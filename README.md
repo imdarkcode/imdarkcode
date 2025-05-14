@@ -30,13 +30,6 @@
 <p align="center"> Atualmente curso Análise e Desenvolvimento de Sistema na Fatec de Taquaritinga. Além da faculdade, estou buscando aprimorar minhas habilidades em programação através de cursos online em plataformas como DIO e Udemy, para que consiga alcançar meu objetivo de me tornar um desenvolvedor fullstack senior, especializado em desenvolvimento web, software e games. Além da minha parte profissonal, gosto de desenhar em meu tempo livre, faço aulas de violino e quando tenho oportunidade gosto de fotografar. </p>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sudano/" />
-  <img src="https://img.shields.io/badge/otavio.sudano11@gmail.com-1F1F1F?style=for-the-badge&logo=gmail&logoColor=red" />
-</div>
-
-<br>
 <br>
 
 <div align="center">
