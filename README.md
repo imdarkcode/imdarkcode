@@ -8,8 +8,11 @@
 
 <br>
 
+<h3 align="center">HABILIDADES E FERRAMENTAS</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,git,figma,vscode" width="60%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,cs" width="60%">
+  <img src="https://skillicons.dev/icons?i=py,mysql,git,md,figma,vscode,visualstudio" width="60%">
 </div>
 
 
